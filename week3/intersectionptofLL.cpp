@@ -11,6 +11,7 @@ struct Node {
   }
 };
 
+//Kept on showing Segmentation fault in GFG
 //Brute Force
 int intersectPoint(Node* head1, Node* head2)
 {
